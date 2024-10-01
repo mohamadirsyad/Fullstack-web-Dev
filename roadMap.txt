@@ -6,3 +6,16 @@
 - git
 - github
 - Command Line Interface (Cli)
+3. Frontend Dev
+- JavaScript lanjutan (Es6), Dom
+- reactjs
+4. backend
+- node js
+- express js
+- mysql
+- Api
+5. DevOps dan Deployment
+- deployment tools (vercel, dll)
+- Ci/Cd
+- server dan clouds services (aws,gcp, aws, dll)
+
