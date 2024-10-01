@@ -9,6 +9,8 @@
 3. Frontend Dev
 - JavaScript lanjutan (Es6), Dom
 - reactjs
+- Npm
+- Tailwind css atau boostrap
 4. backend
 - node js
 - express js
