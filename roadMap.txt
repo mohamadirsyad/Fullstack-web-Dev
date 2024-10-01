@@ -2,3 +2,7 @@
 - Html
 - Css
 - JavaScript
+2. version Control System
+- git
+- github
+- Command Line Interface (Cli)
